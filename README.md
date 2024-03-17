@@ -37,6 +37,10 @@ Privacy and Ethical Considerations: Smile detection technology raises privacy co
 #########DEMO VIDEO 
 
 
+https://github.com/AHemasai/Auto-capture-selfie-by-detecting-smile/assets/126152730/8227967a-09b7-4a7e-959c-bd05b425d5ad
+
+
+
 #########EXACT STEPS TO TEST THE PROJECT
 *Install any dependencies or libraries required for running the project, such as machine learning frameworks (e.g., OPENCV2,DATE AND TIME) and image processing libraries.
 *Verify that the training data covers a wide range of demographics, facial expressions, and lighting conditions to improve the model's robustness.
